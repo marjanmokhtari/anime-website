@@ -1,3 +1,5 @@
 # anime-website
 - [Demo Project](https://marjanmokhtari.github.io/anime-website/)
-<h1>fddfkd</h1>
+- Developer by Marjan Mokhtari
+- Technologies Used - Html , css , tailwind
+- full responsive
