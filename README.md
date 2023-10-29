@@ -3,6 +3,6 @@
   
 - Developer by Marjan Mokhtari
 
-- Technologies Used - Html , css , tailwind
+- Technologies Used - Tailwind , Html , css
   
 - Full responsive
